@@ -5,6 +5,15 @@ This is my first js program I've made by using a book (JavaScript pour les Kids:
 
 ## Test
 U can use this [link](https://codepen.io/junior-lukusa/pen/PvYOrW) to test it in your browser.
+
+## Contributing
+To contribute to this project please  :
+2. Fork it
+2. Create your feature branch (git checkout -b your-new-feature)
+2. Commit your changes (git commit -a -m 'what has been added')
+2. Push to the branch (git push origin your-new-feature)
+2. Create a Pull Request
+
 ## License
 MIT
 
