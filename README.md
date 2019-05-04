@@ -7,3 +7,4 @@ This is my first js program I've made by using a book (JavaScript pour les Kids:
 U can use this [link](https://codepen.io/junior-lukusa/pen/PvYOrW) to test it in your browser.
 ## License
 MIT
+Cool Cool Cool
