@@ -9,9 +9,9 @@ U can use this [link](https://codepen.io/junior-lukusa/pen/PvYOrW) to test it in
 ## Contributing
 To contribute to this project please  :
 * Fork it
-* Create your feature branch (git checkout -b your-new-feature)
-* Commit your changes (git commit -a -m 'what has been added')
-* Push to the branch (git push origin your-new-feature)
+* Create your feature branch (```git checkout -b your-new-feature```)
+* Commit your changes (```git commit -a -m 'what has been added'```)
+* Push to the branch (```git push origin your-new-feature```)
 * Create a Pull Request
 
 ## License
